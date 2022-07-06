@@ -1,4 +1,4 @@
 import { sayHello, sayBye } from './fn1';
 
-sayHello();
-sayBye();
+/*#_PURE_*/ sayHello();
+/*#_PURE_*/ sayBye();
